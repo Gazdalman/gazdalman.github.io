@@ -1,0 +1,39 @@
+html {
+  background-color: #963d66;
+}
+
+body {
+  font-family:'Courier New', Courier, monospace;
+}
+
+h1, h2 {
+  color: #ccc6c6;
+  margin: 0px 20px 20px 20px;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  margin: 0px 20px 10px 20px;
+}
+
+p, ul {
+  font-size: 20px;
+  color: black;
+  margin: 15px 20px;
+}
+
+div {
+  width: 170px;
+  height: fit-content;
+  border: 2px solid black;
+  padding: 10px;
+  margin: auto;
+  background-color: #ccc6c6;
+}
